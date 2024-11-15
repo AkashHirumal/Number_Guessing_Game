@@ -1,0 +1,59 @@
+body{
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ h1{
+    color: rgb(241, 206, 2);
+    font-size: 60px;
+ }
+
+ h3{
+    color: rgb(206, 254, 253);
+    font-size: 40px;
+ }
+
+ p{
+    color: rgb(238, 246, 15);
+    font-size: 30px;
+ } 
+ .chan{
+    color: rgb(255, 14, 14);
+    font-size: 30px;
+ }
+
+
+ input{
+    font-size: 41px;
+ }
+
+
+
+ .button-24 {
+    margin-left: 25px;
+    background: #da8a00;
+    border: 1px solid #da8a00;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 26px;
+    font-weight: 800;
+    padding: 12px 14px;
+    text-align: center;
+  
+ }
+ 
+ .button-24:hover,
+ .button-24:active {
+   background-color: initial;
+   background-position: 0 0;
+   color: #da8a00;
+ }
+ 
+ .button-24:active {
+   opacity: .5;
+ }
